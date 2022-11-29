@@ -1,5 +1,5 @@
+![DALL·E 2022-11-28 23 58 40 - the universe is coming](https://user-images.githubusercontent.com/55887438/204428652-33faf4cd-a9b6-4ba0-89c6-aed2ac7d1ea8.png)
 
-![DALL·E 2022-11-28 23 10 31 - empty space](https://user-images.githubusercontent.com/55887438/204421761-d1d21cea-dfbe-4947-be41-7fea69f98feb.png)
 
 
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
