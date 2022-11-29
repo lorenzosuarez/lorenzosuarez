@@ -1,3 +1,7 @@
+
+![DALL·E 2022-11-28 23 10 31 - empty space](https://user-images.githubusercontent.com/55887438/204421761-d1d21cea-dfbe-4947-be41-7fea69f98feb.png)
+
+
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A passionate Android developer from Argentina</h3>
 
