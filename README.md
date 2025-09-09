@@ -1,21 +1,48 @@
-![DALL·E 2022-11-28 23 58 40 - the universe is coming](https://user-images.githubusercontent.com/55887438/204428652-33faf4cd-a9b6-4ba0-89c6-aed2ac7d1ea8.png)
+<!--
+  Profile README for github.com/lorenzosuarez
+  Keep it concise, recruiter-friendly, and focused on impact.
+-->
 
+<div align="center">
 
+# Lorenzo Suarez
+**Senior Android Engineer — Kotlin/Java · Jetpack Compose · Payments & Fintech**
 
-<h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">A passionate Android developer</h3>
+Building fast, secure, and maintainable Android apps with clean architecture, strong UX, and measurable impact.
 
-- 🌱 I’m currently learning **Python**
+[![Hire me on Upwork](https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01438da8fe0f8735a3?mp_source=share)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-suarez-a6898793/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lorenzo-suarez-a6898793/](https://www.linkedin.com/in/lorenzo-suarez-a6898793/)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lorenzo-suarez-a6898793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lorenzo-suarez-a6898793/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
- </p>
+## About
+
+I ship production-grade Android apps using **Jetpack Compose**, **Coroutines/Flow**, **Hilt**, and robust networking (Retrofit/**Cronet**) with a strong focus on performance, reliability, and analytics. I translate ambiguous product goals into **clean, testable code** and polished user journeys.
+
+**Recent focus:** high-performance WebView tooling (client hints, JS bridge, safe file uploads), secure networking, and app hardening.
+
+## Tech Focus
+
+- **Android:** Kotlin, Java, Jetpack Compose, Coroutines/Flow, Hilt, Room/SQL, Retrofit, **Cronet**, WorkManager, Navigation
+- **Architecture & Quality:** MVVM/MVI, Clean Architecture, modularization, feature flags, A/B testing, CI/CD (GitHub Actions), unit/UI testing
+- **Data & Analytics:** Firebase (events, performance traces), crash/perf monitoring
+- **Web & Tools:** **React** (incl. Next.js) for internal dashboards/companion tools, TypeScript, Node.js
+- **Automation & Scripting:** Python for build tooling, data prep, and developer utilities
+
+## How I Work
+
+- **Performance first:** predictable rendering, lean memory usage, careful network I/O  
+- **Maintainability:** small cohesive modules, clear boundaries, fast CI feedback  
+- **Testability:** business logic drives UI; contracts and invariants are verified  
+- **Security & privacy:** least-privilege defaults, safe storage, and network hygiene
+
+---
+
+### Availability
+
+- Remote **contract** / **short-term projects**  
+- Best contact for work: **[Upwork](https://www.upwork.com/freelancers/~01438da8fe0f8735a3?mp_source=share)**  
+- Networking & references: **[LinkedIn](https://www.linkedin.com/in/lorenzo-suarez-a6898793/)**
+
